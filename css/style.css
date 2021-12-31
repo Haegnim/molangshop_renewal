@@ -30,3 +30,9 @@ header {
   height: 20px;
   border: 1px solid black;
 }
+
+section {
+  height: 700px;
+  width: 100%;
+  background: #efefef;
+}
